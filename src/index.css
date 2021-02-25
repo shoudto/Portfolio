@@ -13,7 +13,11 @@ body {
   text-align: center;
   font-size: 20px;
   padding: 2.5%;
+<<<<<<< HEAD
   background: linear-gradient(#dbdee1, #bad9e6);
+=======
+  background: linear-gradient(#dbdee1, #e43636);
+>>>>>>> 0b820631334257f5fee74f66d6c4434d233fbeaa
   font-family: "RobotoCondensed";
 }
 
