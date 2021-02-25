@@ -13,7 +13,8 @@ body {
   text-align: center;
   font-size: 20px;
   padding: 2.5%;
-  background: linear-gradient(#dbdee1, #bad9e6);
+  /* background: linear-gradient(#dbdee1, #81bfda); */
+  background: linear-gradient(#81bfda, #dbdee1);
   font-family: "RobotoCondensed";
 }
 
@@ -27,9 +28,9 @@ h5 {
 
 button {
   border: none;
-  font-size: 1.5rem;
+  font-size: 0.8rem;
   color: white;
   background: black;
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 2rem;
 }
